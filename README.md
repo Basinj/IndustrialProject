@@ -1,3 +1,4 @@
-This is for a project
+This area is for Releases with enough bugs to stop them from being classified as full releases.
 
-Regular updates expected.
+> [!WARNING]
+> Warning: Any files here may be highly buggy and unstable. Please use files from the Full-Releases Repository.
