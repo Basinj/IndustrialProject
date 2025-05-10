@@ -11,3 +11,6 @@ Regular updates expected.
 >
 > Website (Current Version: 0050A) : [Industrial Website](https://basinj.github.io/IndustrialWeb/)
 
+>[!NOTE]
+>
+>## Rough Line Count: ~175
