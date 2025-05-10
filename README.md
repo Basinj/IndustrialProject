@@ -9,5 +9,5 @@ Regular updates expected.
 >
 > Click Issues at the top for current bugs.
 >
-> Website (Current Version: 0031A) : [Industrial Website](https://basinj.github.io/IndustrialWeb/)
+> Website (Current Version: 0050A) : [Industrial Website](https://basinj.github.io/IndustrialWeb/)
 
