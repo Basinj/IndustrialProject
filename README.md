@@ -1,4 +1,4 @@
-# Current Version: V0.0.5.1 Alpha
+# Current Version: V0.0.5.2 Alpha
 
 This is for a project
 
@@ -13,4 +13,4 @@ Regular updates expected.
 
 >[!NOTE]
 >
->## Rough Line Count: ~175
+>## Rough Line Count: ~200
