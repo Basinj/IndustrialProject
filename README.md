@@ -13,4 +13,4 @@ Regular updates expected.
 
 Current Bugs:
 
-[] #1
+- [ ] #1
