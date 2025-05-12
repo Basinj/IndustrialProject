@@ -11,7 +11,7 @@ Regular updates expected.
 >
 > Website (Current Version: 0100A) : [Industrial Website](https://basinj.github.io/IndustrialWeb/)
 
->[!WARNING]
+>[!CAUTION]
 > ## Due to technical reasons, the website is currently offline.
 > ## Apologies for any inconvinience caused.
 
